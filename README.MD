@@ -39,4 +39,4 @@ pip install mysql-connector-python
 pip freeze -- esto nos muestra las librerias que tenemos instaladas
 
 
-# 7 
+# 7  
